@@ -1,0 +1,103 @@
+.parrafo1{
+
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    font-size:  18px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color:grey;
+}
+
+.texto_rojo {
+    color: #e00000;
+}
+.card-text {
+    font-size: 14px;
+    text-align: justify;
+
+}
+.menu {
+    width: 100%;
+}
+.col-sm-12 {
+    padding: 0%;
+    margin: 0%;
+
+}
+.col-sm-3:hover {
+    opacity: 90%;
+    padding: 0%;
+    margin: 0%;
+}
+.card-title2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.historia{
+    background-color: rgb(41, 41, 41);
+    display: block;
+    width: 100%;
+
+}
+.historia p{
+    padding-top: 60px;
+    width: 90%;
+    margin: auto;
+    color: white;
+    font-size: 80px;
+    padding-bottom: 20px;
+
+}
+.conceptual {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    color: rgb(107, 107, 107);
+    font-size: 15px;
+}
+.conceptual img{
+    width: 50%;
+    margin: auto;
+    display: block;
+
+}
+
+.frase{
+    font-style: italic;
+    width: 70%;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.col{
+    padding: 0%;
+    margin: 0%;
+}
+.card-title3{
+     text-align: center;
+     padding-bottom: 20px;
+     font-size: 15px;
+}
+.nosotros{
+    text-align: center;
+    font-weight: lighter;
+    text-align: justify;
+}
+h5{
+    text-align: center;
+}
+.contacto{
+    background-color: rgb(211, 211, 211);
+    padding: 20px;
+    border-radius: 5px;
+}
+.enviar{
+    background-color: #00ad4d;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    color: rgb(0, 0, 0);
+
+}
